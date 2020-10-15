@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="text">Hola mundo</string>
+    <string name="btns">SUMA</string>
+    <string name="btnr">RESTA</string>
+    <string name="btnm">MULTIPLICACION</string>
+    <string name="btnd">DIVISION</string>
+    <string name="btnl">LIMPIAR</string>
+    <string name="val1">Valor 1</string>
+    <string name="val2">Valor 2</string>
+</resources>
